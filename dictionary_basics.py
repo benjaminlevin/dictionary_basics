@@ -3,10 +3,9 @@ test_dictionary = {
     "name_last": "Levin",
     "age": 27,
     "country": "The United States",
-    "current_language":
-    "Python"
+    "current_language": "Python"
     }
-    
+
 def test_fun():
     print "My name is", test_dictionary["name_first"]
     print "My age is", test_dictionary["age"]
